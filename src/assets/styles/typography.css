@@ -1,0 +1,19 @@
+:root {
+  /* font families */
+  --ff-primary: "Kumbh Sans", sans-serif;
+  /* font sizes */
+  --fs-700: 28px;
+  --fs-600: 24px;
+  --fs-500: 20px;
+  --fs-400: 16px;
+  --fs-300: 14px;
+  /* font weights */
+  --fw-bold: 700;
+  --fw-regular: 400;
+  /* line heights */
+  --lh-600: 34px;
+  --lh-500: 29px;
+  --lh-400: 26px;
+  --lh-300: 24px;
+  --lh-200: 18px;
+}
