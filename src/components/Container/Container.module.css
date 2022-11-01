@@ -1,0 +1,6 @@
+.container {
+    --side-padd: 24px;
+    width: min(100%, calc(1110px + (var(--side-padd) * 2)));
+    margin-inline: auto;
+    padding-inline: var(--side-padd); 
+}

@@ -1,0 +1,34 @@
+.header {
+  width: 100%;
+  height: 136px;
+  background-image: url(../../assets/svg/mobile/bg-pattern-header.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom left;
+}
+
+.inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 32px;
+}
+
+@media screen and (min-width: 768px) {
+  .header {
+    height: 160px;
+    background-image: url(../../assets/svg/tablet/bg-pattern-header.svg);
+  }
+  .inner {
+    padding-top: 42px;
+  }
+}
+
+@media screen and (min-width: 1110px) {
+  .header {
+    background-image: url(../../assets/svg/desktop/bg-pattern-header.svg);
+  }
+  .inner {
+    padding-top: 45px;
+  }
+}

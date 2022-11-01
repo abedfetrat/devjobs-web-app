@@ -2,7 +2,7 @@
     --clr-violet: hsla(235, 69%, 61%, 1);
     --clr-light-violet: hsla(235, 82%, 77%, 1);
     --clr-very-dark-blue: hsla(219, 29%, 14%, 1);
-    --clr-white: hsla(0, 0, 100%, 1);
+    --clr-white: hsl(0, 0%, 100%);
     --clr-light-grey: hsla(217, 26%, 97%, 1);
     --clr-grey: hsla(212, 23%, 69%, 1);
     --clr-dark-grey: hsla(214, 17%, 51%, 1);

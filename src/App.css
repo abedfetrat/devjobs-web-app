@@ -1,0 +1,12 @@
+.app {
+  min-height: 100vh;
+  font-family: var(--ff-primary);
+  font-weight: var(--fw-regular);
+  background-color: var(--clr-light-grey);
+  color: var(--clr-dark-grey);
+}
+
+.dark.app {
+  background-color: var(--clr-very-dark-blue);
+  color: var(--clr-grey);
+}
